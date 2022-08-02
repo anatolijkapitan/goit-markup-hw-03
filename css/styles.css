@@ -154,11 +154,6 @@ body {
     padding-bottom: 200px;
 }
 
-.container .hero-title {
-    /* justify-items: center;
-    text-align: center; */
-}
-
 .section {
     padding-top: 94px;
     padding-bottom: 94px;
@@ -282,7 +277,7 @@ body {
 
 .team-user {
     padding-top: 30px;
-    padding-left: ;
+    padding-bottom: 30px;
 }
 
 .team-name {
