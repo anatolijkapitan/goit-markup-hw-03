@@ -436,13 +436,3 @@ body {
     letter-spacing: 0.03em;
     color: var(--primary-text-color);
 }
-
-.header-logo {
-    margin-right: 93px;
-    font-family: 'Raleway';
-    color: red;
-    font-weight: 700;
-    font-size: 26px;
-    line-height: 1.19;
-    letter-spacing: 0.03em;
-}
